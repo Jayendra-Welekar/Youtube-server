@@ -13,6 +13,7 @@
   "author": "Jayendra Welekar",
   "license": "ISC",
   "devDependencies": {
+<<<<<<< HEAD
     "nodemon": "^3.0.1"
   },
   "dependencies": {
@@ -27,4 +28,9 @@
     "mongoose-aggregate-paginate-v2": "^1.0.6"
   },
   "type": "module"
+=======
+    "nodemon": "^3.0.1",
+    "prettier": "^3.1.0"
+  }
+>>>>>>> d9d45d5ffffada6f7576be73bcc6d13c6dec0db7
 }
